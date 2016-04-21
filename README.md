@@ -23,4 +23,4 @@ _With this app the user tasks to complete. This is a practice project for school
 
 _This site was built in PHP with elements of HTML used to present the app. Twig and Silex were also used, along with some styling from Bootstrap and CSS._
 
-Copyright (c) 2015 **Brianna Popson**
+Copyright (c) 2016 **Brianna Popson**
